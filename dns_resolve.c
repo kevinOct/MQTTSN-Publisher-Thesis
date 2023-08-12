@@ -23,6 +23,7 @@
 #include "dns_resolve.h"
 
 #define MAX_HOSTNAME_LENGTH 64
+
 struct dns_cache {
     char host[MAX_HOSTNAME_LENGTH];
     ipv6_addr_t ipv6addr;

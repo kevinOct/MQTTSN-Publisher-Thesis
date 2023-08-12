@@ -3,6 +3,7 @@
 
 #define DNS_CACHE_SIZE 4
 
+
 #define DNS_CACHE_REFRESH
 #define DNS_CACHE_REFRESH_PERIOD (2UL*3600*1000*1000) /* 2 hours in microseconds */
 

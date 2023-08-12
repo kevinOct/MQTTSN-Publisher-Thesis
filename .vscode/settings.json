@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "debug.h": "c",
+        "sim7020.h": "c",
+        "sim7000g_powerkey.h": "c",
+        "addr.h": "c",
+        "emcute.h": "c",
+        "shell.h": "c",
+        "thread.h": "c",
+        "udp.h": "c",
+        "dns.h": "c"
+    }
+}
